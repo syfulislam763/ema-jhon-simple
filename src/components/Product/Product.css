@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    border-bottom: 1px solid #ddd;
+}
+
+.name {
+    font-weight: 400;
+    font-size: 20px;
+    color: rgb(8, 48, 114);
+}
+
+.content-part {
+    padding: 5px 30px;
+}
+
+.img-part {
+    padding: 5px 5px;
+    margin-top: 20px;
+}
+
+.main-button {
+    background-color: goldenrod;
+    width: 200px;
+    height: 30px;
+    border: 1px solid rgb(17, 5, 5);
+    border-radius: 5px;
+    cursor: pointer;
+}
